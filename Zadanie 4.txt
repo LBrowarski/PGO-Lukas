@@ -1,0 +1,17 @@
+Zadanie 4
+
+Klasa: Person
+Atrybuty: Name (string), Surname (string), Age (int)
+Metody: IntroduceYourself (string)
+
+Klasa: Address
+Atrybuty: Street (string), City (string), State (string), Postal Code (int). Country (string)
+Metody: Validate (string), Output As Label (string)
+
+Klasa: Student
+Atrybuty: Student Number (int), Avrage Mark (int)
+Metody: Is Eligible To Enroll (boolean), Get Seminars Taken (boolean)
+
+Klasa: Professor
+Atrybuty: Salary (int)
+
